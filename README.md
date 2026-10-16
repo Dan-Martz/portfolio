@@ -23,14 +23,6 @@ python 05-ab-testing/analyze.py
 
 Each project saves charts, tabular outputs where applicable, and a summary in its `output/` directory. Those outputs are included in this repository so reviewers can preview results without running code.
 
-## Suggested GitHub upload
-
-Create a public repository named `data-analyst-portfolio` and upload the contents of this folder, keeping the directory structure. Pin the repo on your profile.
-
-## Integrity and limitations
 
 **All records are simulated.** They are designed for demonstration only; no real-world prediction performance or validated business impact is claimed. The fraud project **does not identify confirmed fraud**. The forecast uses a simplified model and a small synthetic time series; the A/B test assumes randomized independent visitors.
 
-## Discuss in interviews
-
-Present each project in four steps: business question → dataset and method → result → limitations and next action.
