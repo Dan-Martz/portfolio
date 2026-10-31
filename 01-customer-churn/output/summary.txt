@@ -1,0 +1,8 @@
+Overall churn rate: 13.3%
+Test ROC AUC: 0.781
+Churn by tenure:
+tenure_group
+1-12     27.0
+13-24    12.4
+25-36    10.8
+37-60     7.8
