@@ -1,0 +1,6 @@
+Variant A: 9.62% (194/2016)
+Variant B: 11.64% (231/1984)
+Difference B minus A: 2.02 percentage points
+Two-sided z-test p-value: 0.0382
+Significant at 0.05: True
+Note: synthetic data; significance does not imply business impact.

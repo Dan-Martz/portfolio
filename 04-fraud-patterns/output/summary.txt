@@ -1,0 +1,3 @@
+Total transactions: 1500
+Flagged for manual review: 52 (3.5%)
+Important: flags are NOT verified fraud. No ground-truth fraud labels are included.
